@@ -2,6 +2,7 @@ banglore
 hyderabad
 mumbai
 Delhi
+rajamandry
 pune
 lucknow
 tpt
