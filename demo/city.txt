@@ -2,3 +2,5 @@ banglore
 hyderabad
 Delhi
 pune
+lucknow
+tpt
